@@ -1,0 +1,17 @@
+{
+  "name": "Short Video Player Repo",
+  "id": "com.moutaindw.short-video-player.repo",
+  "url": "https://ozakitak.github.io/short-video-player",
+  "packages": {
+    "com.moutaindw.short-video-player": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.moutaindw.short-video-player",
+          "displayName": "Short Video Player",
+          "version": "1.0.0",
+          "url": "https://ozakitak.github.io/short-video-player/packages/com.moutaindw.short-video-player-1.0.0.zip"
+        }
+      }
+    }
+  }
+}
