@@ -10,7 +10,13 @@
           "displayName": "Short Video Player",
           "version": "1.0.0",
           "url": "https://ozakitak.github.io/short-video-player/packages/short-video-player-v.1.0.0.zip"
-        }
+        },
+         "1.0.1": {
+          "name": "com.moutaindw.short-video-player",
+          "displayName": "Short Video Player",
+          "version": "1.0.1",
+          "url": "https://ozakitak.github.io/short-video-player/packages/short-video-player-v.1.0.1.zip"
+        }       
       }
     }
   }
